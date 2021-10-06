@@ -33,3 +33,7 @@ Every Method was surronded with a try/catch block so as to easily debug
 
 Each method represents a test case
 Whereas other classes function as test casses on their own.
+
+#Technologies used
+
+1. Java
