@@ -15,7 +15,7 @@
 
 #Adding Reporting
 
-TestNG was installed into eclipse ide for the purpose of test report
+TestNG was installed into eclipse ide for the purpose of test report. It is contained in the testNG.xml file
 
 #Code Linting for Easy bug catching
 
