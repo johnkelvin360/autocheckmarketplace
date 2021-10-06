@@ -27,6 +27,7 @@ Every Method was surronded with a try/catch block so as to easily debug
 2. Install Selinium webdriver 
 3. Import External Jars which include the selnium standalone server and selenium client server.
 4. import project into eclipse and run various classes.
+5. import chrome driver.
 
 
 #Note
